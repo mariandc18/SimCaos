@@ -4,7 +4,7 @@ Simulación basada en agentes de evacuación de un edificio ante un incendio, co
 
 ---
 
-## 📋 Descripción
+## Descripción
 
 El sistema simula cómo distintos tipos de agentes (adultos, niños y ancianos) evacuan un edificio en presencia de un incendio activo. El fuego se propaga por las celdas del edificio y afecta las decisiones de movimiento de los agentes. Se ejecutan múltiples réplicas hasta alcanzar un **intervalo de confianza del 95%** con error relativo menor al 5%.
 
